@@ -1,0 +1,61 @@
+body {
+  background:url(https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170);
+  font-family: "Roboto", sans-serif;
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-size: cover;
+  height: 100vh;
+}
+
+h1{
+  color: #2b0389;
+}
+
+.App{
+  background-color: rgb(255, 255, 255);
+  min-height: 80vh;
+  width: 400px;
+  margin: 40px auto;
+}
+.crossed{
+  text-decoration: line-through 2px red;
+  background-color: rgb(255, 255, 255);
+  
+  
+}
+ul,li {
+  list-style-type:none;
+  padding:10 px;
+}
+.container{
+  display:flex;
+  justify-content:center;
+}
+.add{
+  margin-top: 5px;
+  margin-bottom:5px;
+  background: rgb(54, 97, 255);
+}
+.delete{
+  background: rgb(245, 20, 132);
+  margin-top:5px;
+  margin-bottom: 10px;
+}
+.btn{
+  padding:10px;
+  width:70%;
+  color:white;
+  font-size:16px;
+  border: none;
+  border-radius: 5px;
+
+}
+input{
+  flex:1;
+  padding:8px;
+  margin:10px;
+}
+.done{
+  margin-right: 10px;
+}
+
