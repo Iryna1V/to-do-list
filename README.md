@@ -2,16 +2,22 @@
 
 This is a small React app where you can write a to-do list for the day.
 
-You can type what you needs to do during the day into the input field and press Add or hit Enter.
+## Functionalities:
 
-Click on the item when you've completed the task and it will be crossed out.
+- You can type what you needs to do during the day into the input field and press Add or hit Enter.
 
-You can add as many items as you wants and can also remove them.
+- Click on the item when you've completed the task and it will be crossed out.
+
+- You can add as many items as you wants and can also remove them.
+
+- Simple user interface.
 
 
 ## Tech stack:
 
-React 19.0, Vite, CSS.
+- React 19.0
+- Vite
+- CSS.
 
 ## Run the application:
 
