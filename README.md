@@ -1,4 +1,4 @@
-# About this Project:
+# About To Do List app:
 
 A simple application where you can write a to-do list for the day.
 
