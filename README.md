@@ -1,4 +1,4 @@
-# About To Do List app:
+# About To Do List application:
 
 A simple application where you can write a to-do list for the day.
 
